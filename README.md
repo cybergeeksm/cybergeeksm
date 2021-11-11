@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cybergeeksm
 - 👀 I’m interested in Web Development, Coding basically C,Java and Python.
-- 🌱 I’m currently a student of Bachelors of Computer Application,firt year in the Institute of Engineering and Management, Kolkata.
+- 🌱 I’m currently a Computer Science Engineering Student at Netaji Subhash Engineering College, Kolkata.
 - 💞️ I’m looking to collaborate on Web Developing Projects
 - 📫 Contact me via: cybergeeksm@gmail.com, whatsapp:9123784891
 
